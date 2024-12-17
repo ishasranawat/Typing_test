@@ -4,5 +4,5 @@ This is another test block of text for this project!
 You can play this and check your typing speed very easily.
 Okay this is just another test to make sure the game is working okay!
 I hope you like this little game that I build using Python. 
-Thank you for playing, I hope you like 
+Thank you for playing, I hope your typing speed matches your expectations.
 
