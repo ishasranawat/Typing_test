@@ -3,10 +3,10 @@ This Python project is a command-line application to test your typing speed usin
 
 Features
 
-Randomly selects a paragraph for the typing test.
-Measures typing speed in Words Per Minute (WPM).
-Provides real-time visual feedback:
-Correctly typed characters are highlighted in green.
-Incorrectly typed characters are highlighted in red.
-Displays results upon completion of the test.
-Exit anytime using the ESC key.
+•Randomly selects a paragraph for the typing test.
+•Measures typing speed in Words Per Minute (WPM).
+•Provides real-time visual feedback:
+•Correctly typed characters are highlighted in green.
+•Incorrectly typed characters are highlighted in red.
+•Displays results upon completion of the test.
+•Exit anytime using the ESC key.
