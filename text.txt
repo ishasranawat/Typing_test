@@ -1,4 +1,5 @@
 Hello everyone my name is Isha and I am making a small game to test your typing speed.
+This is my first Python project.
 This is another test block of text for this project!
 You can play this and check your typing speed very easily.
 Okay this is just another test to make sure the game is working okay!
