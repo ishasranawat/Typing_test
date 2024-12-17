@@ -10,3 +10,9 @@ Features
 •Incorrectly typed characters are highlighted in red.
 •Displays results upon completion of the test.
 •Exit anytime using the ESC key.
+
+Project Structure
+typing-speed-test/
+├── typing_speed_test.py  # Main script for the application
+├── text.txt              # File containing sample paragraphs for the test
+└── README.md             # Documentation for the project
